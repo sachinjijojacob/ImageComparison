@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Cmpimg.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Image comparison.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Documents\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Image comparison.exe
+C:\Users\user\Documents\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Image comparison.pdb
+C:\Users\user\Documents\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Cmpimg.resources
+C:\Users\user\Documents\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Documents\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Image comparison.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Image comparison.exe
+C:\Users\user\Documents\Downloads\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Image comparison.pdb
+C:\Users\user\Documents\Downloads\Image_comapison\WindowsFormsApplication1\obj\x86\Debug\Image comparison.exe
+C:\Users\user\Documents\Downloads\Image_comapison\WindowsFormsApplication1\obj\x86\Debug\Image comparison.pdb
